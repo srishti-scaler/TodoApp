@@ -173,8 +173,22 @@ body {
 	font-size: 0.8em;
 	color: white;
 	a {
-		color: white;
+		color: black;
+		background: white;
+
 	}
+}
+
+
+button
+{
+  margin-top:10px;
+  margin-bottom: 10px;
+  border: none;
+  background: white;
+  color:black;
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 .forms {
